@@ -1,8 +1,5 @@
-.. image:: https://badge.fury.io/py/django-request-token.svg
-    :target: https://badge.fury.io/py/django-request-token
-
-.. image:: https://travis-ci.org/yunojuno/django-request-token.svg
-    :target: https://travis-ci.org/yunojuno/django-request-token
+.. image:: https://api.travis-ci.org/rafen/django-request-token.svg
+    :target: https://travis-ci.org/rafen/django-request-token
 
 Django Request Token
 --------------------
